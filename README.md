@@ -96,8 +96,8 @@ flowchart TD
 ### 2️⃣ Clonar o Repositório
 
 ``` bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-cd SEU-REPOSITORIO
+git clone https://github.com/Enilsonn/to-do-list-go.git
+cd to-do-list-go
 ```
 
 ------------------------------------------------------------------------
